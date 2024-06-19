@@ -1,4 +1,4 @@
-# Azure API Center for Visual Studio Code
+Azure API Center for Visual Studio Code
 
 Build, discover, try, and consume APIs using your favorite development environment.
 
